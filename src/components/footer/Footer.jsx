@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
 
         <div className="copyright">
-          <p>© 2023 Little Lemon Ltd. All rights reserved.</p>
+          <p>© 2024 Little Lemon Ltd. All rights reserved.</p>
         </div>
       </footer>
     </>
